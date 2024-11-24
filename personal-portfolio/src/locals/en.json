@@ -1,4 +1,9 @@
 {
+    "home": {
+        "greetings": "Hi, I’m",
+        "occupation": "Spanish web development student",
+        "currentlyDoing": "Studying at IES PUERTO DE LA CRUZ TELESFORO BRAVO"
+    },
     "aboutme": {
         "title": "About me",
         "introduction": "Hello! I am a web development student passionate about programming and the digital world in general. I’m always eager to learn from mistakes in order to bring code closer to perfection",

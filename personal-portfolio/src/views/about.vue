@@ -1,7 +1,7 @@
 <template>
     <div class="container mt-3">
         <div class="row">
-            <div class="col-4">
+            <div class="col-4 d-flex align-items-center">
                 <img id="pfp" class="border" src="../assets/images/pfp.jpg" alt="Profile Picture">
             </div>
             <div class="col-8">
