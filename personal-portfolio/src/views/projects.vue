@@ -16,10 +16,9 @@
         components: { Card },
         computed: {
             projectList() {
-                const projects = this.$t('projects.data');
-                return Object.keys(projects)
-                    .filter(key => key.startsWith('project_'))
-                    .map(key => projects[key]);
+                const projects = this.$t('projects');
+                console.log(projects);
+                return Object.entries(projects).map(key => projects[key]);
             }
         }
     };
