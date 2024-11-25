@@ -20,7 +20,9 @@
             "text": "Throughout my learning journey, I have worked with various tools of all kinds, including databases, frameworks, programming languages, and systems... If you're curious, feel free to check out my skills page."
         }
     },
-    "projects": "Projects",
+    "projects": {
+        "title": "Projects"
+    },
     "skills": "Skills",
     "experience": "Experience",
     "contact": "Contact"

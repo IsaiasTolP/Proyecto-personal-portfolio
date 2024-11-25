@@ -20,7 +20,18 @@
             "text": "A lo largo de mi aprendizaje he trabajado con varias herramientas de todo tipo, bases de datos, frameworks, lenguajes de programación, sistemas... Si tienes curiosidad pásate por mi página de habilidades."
         }
     },
-    "projects": "Proyectos",
+    "projects": {
+        "title": "Proyectos",
+        "data": {
+            "project_1": {
+                "title": "JavaSpotify",
+                "description": "Un proyecto de un reproductor de música en un navegador hecho con HTML, CSS y Javascript, aunque principalmente es un proyecto para practicar únicamente CSS avanzado",
+                "link": "https://github.com/IsaiasTolP/Music-player-project",
+                "tools": "CSS, HTML, JS"
+            }
+        }
+        
+    },
     "skills": "Habilidades",
     "experience": "Experiencia",
     "contact": "Contacto"
