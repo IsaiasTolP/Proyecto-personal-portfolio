@@ -1,6 +1,10 @@
 <template>
     <div class="card">
-        <div class="card-header">{{ $t('data.title') }}</div>
+        <div class="card-header">{{ data.title }}</div>
+        <div class="card-body">
+            <p class="card-text">{{ data.description }}</p>
+            <a :href="data.link" class="btn btn-primary">{{ $t('projects.link_text') }}</a>
+        </div>
     </div>
 </template>
 
