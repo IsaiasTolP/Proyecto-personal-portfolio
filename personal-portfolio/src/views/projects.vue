@@ -16,9 +16,9 @@
         components: { Card },
         computed: {
             projectList() {
-                const projects = this.$t('projects.data');
-                console.log(projects);
-                return Object.entries(projects).map(([key, value]) => projects[key]);
+                const projects = this.$i18n.messages[this.$i18n.locale].projects.data;
+                console.log(projects)
+                return Object.entries(projects).map(([key, value]) => value);
             }
         }
     };
