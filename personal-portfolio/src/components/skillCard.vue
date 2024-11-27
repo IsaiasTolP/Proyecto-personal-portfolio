@@ -1,10 +1,10 @@
 <template>
     <div class="card">
-        <div class="card-header">{{ data.title }}</div>
         <div class="card-body">
-            <p class="card-text">{{ data.description }}</p>
-            <p class="card-text">{{ data.tools }}</p>
-            <a :href="data.link" class="btn btn-primary">{{ $t('projects.link_text') }}</a>
+            <p class="text-card">{{ data.name }}</p>
+            <p class="text-card">{{ data.logo }}</p>
+            <p class="text-card">{{ data.description }}</p>
+            <p class="text-card">{{ data.level }}</p>
         </div>
     </div>
 </template>

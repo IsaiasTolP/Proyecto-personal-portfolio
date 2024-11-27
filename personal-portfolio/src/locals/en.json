@@ -31,9 +31,27 @@
             },
             "project_2": {
                 "title": "League Stats",
-                "description": "Un proyecto para mostrar las estadísticas de los campeones de League of Legends consultando la API oficial, es un proyecto de CSS avanzado para practicar",
+                "description": "A project to display the statistics of League of Legends champions by querying the official API; it is an advanced CSS project for practice.",
                 "link": "https://github.com/IsaiasTolP/LOL-Project",
                 "tools": "CSS, HTML, JS"
+            },
+            "project_3": {
+                "title": "Todo",
+                "description": "A project made in Django (Python) that simulates a simple task manager.",
+                "link": "https://github.com/IsaiasTolP/Todo-project",
+                "tools": "CSS, HTML, BOOTSTRAP, PYTHON, DJANGO, SQLITE3"
+            },
+            "project_4": {
+                "title": "Pokemon Store",
+                "description": "A project that simulates a store where Pokémon can be purchased using a non-relational database (Firebase).",
+                "link": "https://github.com/IsaiasTolP/Pokemon-Store-Project",
+                "tools": "CSS, HTML, JS, FIREBASE"
+            },
+            "project_5": {
+                "title": "Tribu",
+                "description": "A project that simulates a simple social network called Tribu, which includes profiles, posts, and comments.",
+                "link": "https://github.com/IsaiasTolP/Tribu-social-network-project",
+                "tools": "CSS, HTML, BOOTSTRAP, PYTHON, DJANGO, SQLITE3"
             }
         },
         "link_text": "Go to repository"

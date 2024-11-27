@@ -34,11 +34,40 @@
                 "description": "Un proyecto para mostrar las estadísticas de los campeones de League of Legends consultando la API oficial, es un proyecto de CSS avanzado para practicar",
                 "link": "https://github.com/IsaiasTolP/LOL-Project",
                 "tools": "CSS, HTML, JS"
+            },
+            "project_3": {
+                "title": "Todo",
+                "description": "Un proyecto hecho en Django(Python) que simula un gestor de tareas sencillo",
+                "link": "https://github.com/IsaiasTolP/Todo-project",
+                "tools": "CSS, HTML, BOOTSTRAP, PYTHON, DJANGO, SQLITE3"
+            },
+            "project_4": {
+                "title": "Pokemon Store",
+                "description": "Un proyecto que simula una tienda donde se pueden comprar pokemons mediante una base de datos no relacional (Firebase)",
+                "link": "https://github.com/IsaiasTolP/Pokemon-Store-Project",
+                "tools": "CSS, HTML, JS, FIREBASE"
+            },
+            "project_5": {
+                "title": "Tribu",
+                "description": "Un proyecto que simula una red social sencilla llamada Tribu que contiene perfiles, posts y comentarios",
+                "link": "https://github.com/IsaiasTolP/Tribu-social-network-project",
+                "tools": "CSS, HTML, BOOTSTRAP, PYTHON, DJANGO, SQLITE3"
             }
         },
         "link_text": "Ir al repositorio"
     },
-    "skills": "Habilidades",
+    "skills": {
+        "title": "Habilidades",
+        "data": {
+            "skill_1": {
+                "name": "Python",
+                "description": "Python es el primer lenguaje de programación que aprendí y lo he usado en múltiples proyectos",
+                "level": "1",
+                "logo": "python-logo"
+            }
+        }
+    
+    },
     "experience": "Experiencia",
     "contact": "Contacto"
 }
