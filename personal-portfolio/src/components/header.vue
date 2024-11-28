@@ -4,8 +4,6 @@
             <div class="container">
                 <div class="row d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
                     <div class="col-2"><router-link to="/" class="d-flex align-items-center my-2 my-lg-0 me-lg-auto text-white text-decoration-none"><h1 id="initials"> &lt;IT&gt; </h1></router-link></div>
-                    
-                    
                     <div class="col-8">
                     <ul class="nav col-12 col-lg-auto my-2 justify-content-end my-md-0 text-small">
                         <li><router-link to="/projects" class="nav-link text-white"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-code-square d-block mx-auto mb-1" viewBox="0 0 16 16">

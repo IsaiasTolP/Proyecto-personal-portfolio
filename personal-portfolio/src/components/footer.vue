@@ -4,11 +4,11 @@
             <div class="d-flex flex-column">
                 <h5>Navigation:</h5>
                 <div class="row">
-                    <router-link to="/"><span class="col-6">{{ $t('projects.title') }}</span></router-link>
-                    <router-link to="/"><span class="col-6">{{ $t('skills') }}</span></router-link>
-                    <router-link to="/"><span class="col-6">{{ $t('experience') }}</span></router-link>
-                    <router-link to="/aboutme"><span class="col-6">{{ $t('aboutme.title') }}</span></router-link>
-                    <router-link to="/"><span class="col-6">{{ $t('contact') }}</span></router-link>
+                    <router-link class="col-6" to="/"><span>{{ $t('projects.title') }}</span></router-link>
+                    <router-link class="col-6" to="/"><span>{{ $t('skills') }}</span></router-link>
+                    <router-link class="col-6" to="/"><span>{{ $t('experience') }}</span></router-link>
+                    <router-link class="col-6" to="/aboutme"><span>{{ $t('aboutme.title') }}</span></router-link>
+                    <router-link class="col-6" to="/"><span>{{ $t('contact') }}</span></router-link>
                 </div>
 
             </div>

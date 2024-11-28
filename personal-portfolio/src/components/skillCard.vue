@@ -1,8 +1,8 @@
 <template>
-    <div class="card">
+    <div class="card h-100">
         <div class="card-body">
-            <p class="text-card">{{ data.name }}</p>
-            <p class="text-card">{{ data.logo }}</p>
+            <p v-html="data.logo"></p>
+            <h5 class="text-card">{{ data.name }}</h5>
             <p class="text-card">{{ data.description }}</p>
             <p class="text-card">{{ data.level }}</p>
         </div>

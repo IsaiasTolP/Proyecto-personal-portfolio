@@ -1,7 +1,7 @@
 <template>
     <div class="container mt-3">
         <div class="row">
-            <div class="col-4 mb-2" v-for="(skill, key) in skillList" :key="key">
+            <div class="col-4 mb-3" v-for="(skill, key) in skillList" :key="key">
                 <Card :data="skill"/>
             </div>
         </div>
