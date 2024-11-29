@@ -92,5 +92,10 @@
         }
     },
     "experience": "Experience",
-    "contact": "Contact"
+    "contact": "Contact",
+    "footer": {
+        "categories": {
+            "socials": "Social networks"
+        }
+    }
 }
