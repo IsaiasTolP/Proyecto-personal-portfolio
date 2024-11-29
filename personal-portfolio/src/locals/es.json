@@ -62,36 +62,43 @@
             "skill_1": {
                 "name": "Python",
                 "description": "Python es el primer lenguaje de programación que aprendí y lo he usado en múltiples proyectos.",
-                "level": "1",
+                "level": "Nivel: 1 año de uso en proyectos",
                 "logo": "<img src='https://skillicons.dev/icons?i=python&theme=light' alt='Logo Python' />"
             },
             "skill_2": {
                 "name": "HTML5, CSS",
                 "description": "Lenguajes de marcado para hacer páginas web, esenciales para cualquier proyecto web.",
-                "level": "1",
+                "level": "Nivel: Desde comienzo de los estudios",
                 "logo": "<img src='https://skillicons.dev/icons?i=html,css' alt='Logo html y css' />"
             },
             "skill_3": {
                 "name": "Javascript, Typescript",
                 "description": "Lenguajes de programación esenciales para el front-end de aplicaciones web de navegador, aunque no completamente imprescindible, por lo que no los he usado en todos los proyectos.",
-                "level": "1",
+                "level": "Nivel: Intermedio, conociendo el lenguaje",
                 "logo": "<img src='https://skillicons.dev/icons?i=js,ts' alt='Logo javascript y typescript' />"
             },
             "skill_4": {
                 "name": "Bases de datos SQL",
                 "description": "Todo proyecto que pretenda cierto grado de complejidad necesitará de una base de datos y las de tipo SQL son muy intuitivas de manejar, por lo que manejar al menos uno de los motores SQL es imprescindible.",
-                "level": "1",
+                "level": "Nivel: 1 año de uso en proyectos",
                 "logo": "<img src='https://skillicons.dev/icons?i=sqlite,mysql&theme=light' alt='Logo SQLite y MySQL' />"
             },
             "skill_5": {
                 "name": "Frameworks Web",
                 "description": "Los frameworks web facilitan el trabajo de desarrollo de aplicaciones web por eso los he incluido en los proyectos más complejos que he desarrollado y que desarrollaré.",
-                "level": "1",
+                "level": "Nivel: Aprendiendo",
                 "logo": "<img src='https://skillicons.dev/icons?i=django,vue&theme=light' alt='Logo Django y Vue' />"
             }
         }
     },
-    "experience": "Experiencia",
+    "experience": {
+        "title": "Experiencia",
+        "data": {
+            "exp_1": "Nivel B2 Ingles, Puerto de la Cruz",
+            "exp_2": "Desarrollo de aplicaciones web (DAW), Puerto de la Cruz",
+            "exp_3": "Japonés N5, Las Palmas de Gran Canaria"
+        }
+    },
     "contact": "Contacto",
     "footer": {
         "categories": {
