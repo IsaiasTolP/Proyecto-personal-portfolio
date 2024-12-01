@@ -93,10 +93,11 @@
     },
     "experience": {
         "title": "Experiencia",
+        "download": "Descargar CV",
         "data": {
-            "exp_1": "Nivel B2 Ingles, Puerto de la Cruz",
-            "exp_2": "Desarrollo de aplicaciones web (DAW), Puerto de la Cruz",
-            "exp_3": "Japonés N5, Las Palmas de Gran Canaria"
+            "exp_1": "Nivel B2 Ingles, Puerto de la Cruz - 2020/2021",
+            "exp_2": "Desarrollo de aplicaciones web (DAW), Puerto de la Cruz - Actualmente",
+            "exp_3": "Bachillerato, Ciencias de la Salud - 2019/2021"
         }
     },
     "contact": "Contacto",
@@ -104,5 +105,15 @@
         "categories": {
             "socials": "Redes sociales"
         }
+    },
+    "form": {
+        "title": "Formulario de contacto",
+        "email": "Correo electrónico",
+        "emailplaceholder": "Tu correo electrónico",
+        "message": "Mensaje",
+        "messagePlaceholder": "Escribe tu mensaje aquí",
+        "sendBtn": "Enviar",
+        "successMessage": "¡Mensaje enviado con éxito!", 
+        "errorMessage": "Ocurrió un error al enviar el mensaje."
     }
 }

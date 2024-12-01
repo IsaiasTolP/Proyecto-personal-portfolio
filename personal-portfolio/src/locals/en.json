@@ -93,10 +93,11 @@
     },
     "experience": {
         "title": "Experience",
+        "download": "Download CV",
         "data": {
-            "exp_1": "B2 Level english, Puerto de la Cruz",
-            "exp_2": "Web applications development (DAW), Puerto de la Cruz",
-            "exp_3": "Japanese N5, Las Palmas de Gran Canaria"
+            "exp_1": "B2 Level english, Puerto de la Cruz - 2020/2021",
+            "exp_2": "Web applications development (DAW), Puerto de la Cruz - Currently",
+            "exp_3": "Baccalaureate, Health Sciences - 2024"
         }
     },
     "contact": "Contact",
@@ -104,5 +105,15 @@
         "categories": {
             "socials": "Social networks"
         }
+    },
+    "form": {
+        "title": "Contact Form",
+        "email": "Email",
+        "emailPlaceholder": "Your email",
+        "message": "Message",
+        "messagePlaceholder": "Write your message here",
+        "sendBtn": "Send",
+        "successMessage": "Message sent successfully!",
+        "errorMessage": "An error occurred while sending the message."
     }
 }
